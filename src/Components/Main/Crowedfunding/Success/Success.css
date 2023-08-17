@@ -1,0 +1,15 @@
+.rounded{
+    border-radius: 30px !important;
+    max-width: 900px !important;
+}
+.content{
+    background-color: rgb(198, 95, 95);
+}
+.success_img{
+    border: none;
+}
+.success_img:hover{
+    box-shadow: 4px 5px 20px rgb(255, 255, 255) !important;
+    border: none;
+
+}

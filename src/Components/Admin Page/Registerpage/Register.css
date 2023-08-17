@@ -1,0 +1,12 @@
+#section{
+    color: deeppink;
+    border: 1px solid gray;
+    margin: 10px;
+    border-radius: 10px;
+    padding-top: 1rem;
+    padding-left: 0;
+    padding-right: .5px;
+    justify-content: start;
+    box-shadow: 0px 2px 4px 2px gray;
+    width: 100;
+}

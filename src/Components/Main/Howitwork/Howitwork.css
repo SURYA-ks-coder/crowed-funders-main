@@ -1,0 +1,32 @@
+.how_it_work{
+    color: rgb(249, 115, 189);
+    /* max-width: 500px; */
+    position:relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* padding: 70px; */
+    
+}
+#how_center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cal_width{
+    max-width: 100px;
+    padding-bottom: 65px;
+}
+.alignment{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    
+
+}
+.chil_dir{
+    padding-left: 100px;
+    
+}
+

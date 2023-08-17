@@ -1,0 +1,26 @@
+.maincontent{
+    
+    background:linear-gradient(to bottom,rgba(1, 255, 213, 0%),rgb(255, 154, 191) 140%), url(./img.jpg);
+    background-size: cover;
+    min-height:697px;
+}
+.btn{
+    background-color: rgb(255, 124, 181);
+
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    max-width: fit-content;
+}
+.btn:hover{
+    background-color: rgb(255, 124, 181);
+   
+    box-shadow: 4px 5px 20px rgb(236, 80, 106) !important;
+}
+#align{
+    min-height:697px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}

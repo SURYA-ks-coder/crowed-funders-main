@@ -1,0 +1,9 @@
+.form-control {
+max-width: 800px;
+
+}
+.btn-center{
+    display: flex;
+    justify-content: center;
+}
+

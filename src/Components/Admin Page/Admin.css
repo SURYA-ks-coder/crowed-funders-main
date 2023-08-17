@@ -1,0 +1,33 @@
+/* .color_black{
+    background-color: rgba(220, 20, 60, 0.661);
+} */
+.adminimg{
+    max-width: 100px;
+    min-height: 100px;
+}
+#align-row{
+    display: flex;
+    flex-direction: column;
+}
+#text_move{
+
+    width: 100%;
+    padding: 20px;
+    box-shadow: 1px 4px 5px gray;
+    border-radius: 18px;
+    color: pink !important;
+    
+
+}
+#text_move:hover{
+    box-shadow: 1px 8px 120px gray;
+
+}
+#text{
+ color: rgb(243, 116, 137) !important;
+}
+.company_name{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}

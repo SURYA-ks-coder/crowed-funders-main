@@ -1,0 +1,47 @@
+.monthly_img{
+        /* width: 100%!important; */
+        background: linear-gradient(230deg,rgba(240, 77, 136, 1.95),rgba(240, 77, 136, 0.95) 23%,rgba(39,1,1,.7294117647058823) 43%,rgba(38,166,124,0)),url(./img2.jpg);
+        background-size: cover;
+        height: 700px;
+
+    }
+    .heading{
+        background-color: #fff;
+        max-width: fit-content;
+        border-top-right-radius: 20px;
+        /* margin-top:10px; */
+        text-align: right;
+        position: sticky;
+        top: 100px;
+        
+    }
+    .arange{
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+        align-items: center;
+        text-shadow: 4px 5px 5px rgba(212, 212, 212, 0.518);
+        margin-top: 200px;
+        
+    }
+    .line_color{
+       padding-left: 27px;
+       color: #fff; 
+       text-shadow: 4px 5px 5px rgba(98, 96, 96, 0.518);
+      
+    }
+    .sector{
+        padding: 60px;
+        text-align: center;
+        color: rgb(235, 131, 195);
+        font-style: italic;
+        font-weight: bold;
+    }
+    /* .back_img{
+        background-image: url();
+        width: fit-content;
+        background-repeat: no-repeat;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    } */

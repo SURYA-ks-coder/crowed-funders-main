@@ -1,0 +1,19 @@
+.textalign{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+
+ padding: 17px;
+}
+#patient-deatils{
+    color: rgba(232, 54, 181, 0.797);
+    justify-content: center;
+
+}
+/* .form_box{
+    box-shadow: 1px 1px 200px rgb(248, 101, 170) !important;
+    background:linear-gradient(to right,rgba(241, 91, 179, .1),rgb(255, 116, 167) 140%), url(./card4.jpg);
+    border-top-right-radius: 500px;
+    border-top-left-radius: 500px;
+
+} */

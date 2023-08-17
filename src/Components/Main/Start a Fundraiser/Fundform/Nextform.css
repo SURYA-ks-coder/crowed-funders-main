@@ -1,0 +1,16 @@
+
+/* .next{
+    max-width: 600px;
+} */
+.next_2{
+    padding: 36px;
+    margin-bottom: 20px;
+}
+.btn_align{
+ display: flex;
+ justify-content: center;
+}
+.col-form-label{
+    padding: 20px;
+}
+
